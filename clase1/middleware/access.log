@@ -1,0 +1,79 @@
+[2023-01-10T18:42:39.264] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:43:17.922] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:43:42.926] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:43:56.506] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:44:09.024] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:44:22.167] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:44:39.602] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:44:45.391] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:44:51.390] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:44:57.929] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:45:19.926] [DEBUG] access - Se ha accedido a la ruta raíz
+[2023-01-10T18:45:49.046] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:48:37.548] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:48:41.240] [ERROR] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T18:49:06.201] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:49:08.567] [FATAL] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T18:49:20.626] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:49:27.156] [TRACE] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T18:49:39.799] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:49:41.357] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T18:52:33.989] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:56:01.517] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:56:38.852] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T18:57:00.751] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:57:05.893] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:57:10.804] [DEBUG] access - Escuchando en puerto 3000
+::1 - - [10/Jan/2023:17:57:14 +0000] "GET /adios HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+[2023-01-10T18:57:14.284] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T18:58:25.666] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:58:38.508] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:59:40.784] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:59:41.860] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:59:42.869] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:59:44.504] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:59:46.313] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T18:59:47.517] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:00:02.428] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:03.097] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:03.298] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:03.475] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:03.655] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:03.804] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:03.982] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:04.186] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:04.499] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:04.685] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+[2023-01-10T19:00:04.824] [INFO] access - Se ha intentado acceder a la ruta ADIOS
+::1 - - [10/Jan/2023:18:00:17 +0000] "GET /secreto HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+[2023-01-10T19:01:07.536] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:01:39.110] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:01:43.819] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:02:17.031] [DEBUG] access - Escuchando en puerto 3000
+::1 - - [10/Jan/2023:18:02:19 +0000] "GET /secreto HTTP/1.1" 200 26 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+[2023-01-10T19:02:48.509] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:03:13.197] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:03:22.265] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:03:56.424] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:03.331] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:15.323] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:17.996] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:36.468] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:37.937] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:40.332] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:43.648] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:49.782] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:04:57.966] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:00.614] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:03.038] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:12.907] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:31.665] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:35.374] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:35.901] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:39.379] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:50.667] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:05:56.419] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:06:01.541] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:06:02.381] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:06:29.646] [DEBUG] access - Escuchando en puerto 3000
+[2023-01-10T19:06:33.819] [DEBUG] access - Escuchando en puerto 3000
